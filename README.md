@@ -7,9 +7,15 @@
 ### I added this line in my-first-branch
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### I added this line in main branch
 =======
 #### I added this line in my-main-branch
 >>>>>>> my-first-branch
 
 **i'm KU83**
+=======
+#### I added this line in my-main-branch
+
+** I'm KU83!**
+>>>>>>> my-first-branch
